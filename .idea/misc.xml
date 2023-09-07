@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/alexs/AndroidStudioProjects/RewindHackathon/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/alexs/AndroidStudioProjects/RewindHackathon/app/src/main/res/layout/activity_main.xml" value="0.128" />
         <entry key="..\:/Users/alexs/AndroidStudioProjects/RewindHackathon/app/src/main/res/layout/deposits.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/alexs/AndroidStudioProjects/RewindHackathon/app/src/main/res/layout/dining_groceries.xml" value="0.21467391304347827" />
         <entry key="..\:/Users/alexs/AndroidStudioProjects/RewindHackathon/app/src/main/res/layout/entertainment.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/alexs/AndroidStudioProjects/RewindHackathon/app/src/main/res/layout/fragment_home.xml" value="0.15334699453551912" />
+        <entry key="..\:/Users/alexs/AndroidStudioProjects/RewindHackathon/app/src/main/res/layout/goodbye.xml" value="0.21467391304347827" />
         <entry key="..\:/Users/alexs/AndroidStudioProjects/RewindHackathon/app/src/main/res/layout/household_expenses.xml" value="0.21467391304347827" />
+        <entry key="..\:/Users/alexs/AndroidStudioProjects/RewindHackathon/app/src/main/res/layout/savings.xml" value="0.21467391304347827" />
         <entry key="..\:/Users/alexs/AndroidStudioProjects/RewindHackathon/app/src/main/res/layout/shopping.xml" value="0.264" />
       </map>
     </option>
