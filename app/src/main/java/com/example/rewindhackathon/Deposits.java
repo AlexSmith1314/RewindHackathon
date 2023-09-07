@@ -20,8 +20,8 @@ public class Deposits extends AppCompatActivity {
             public void onClick(View v) {
                 System.out.println("Button Clicked");
 
-                Intent activity2Intent = new Intent(getApplicationContext(), MainActivity.class);
-                startActivity(activity2Intent);
+                Intent depositsScreen   = new Intent(getApplicationContext(), Deposits.class);
+                startActivity(depositsScreen);
             }
 
         });
